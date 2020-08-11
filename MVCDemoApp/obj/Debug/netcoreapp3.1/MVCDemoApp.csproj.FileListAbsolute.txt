@@ -172,3 +172,4 @@ C:\Users\mphet\source\home\MVCDemo\MVCDemoApp\obj\Debug\netcoreapp3.1\MVCDemoApp
 C:\Users\mphet\source\home\MVCDemo\MVCDemoApp\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
 C:\Users\mphet\source\home\MVCDemo\MVCDemoApp\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Display.cshtml.g.cs
 C:\Users\mphet\source\home\MVCDemo\MVCDemoApp\obj\Debug\netcoreapp3.1\Razor\Views\Food\Index.cshtml.g.cs
+C:\Users\mphet\source\home\MVCDemo\MVCDemoApp\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
